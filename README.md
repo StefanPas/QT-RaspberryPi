@@ -1,4 +1,1 @@
-# QT-RaspberryPi
-
-QT and Raspberry Pi examples
-
+Some QT and Raspberry Pi examples.
